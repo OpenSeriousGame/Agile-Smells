@@ -4,10 +4,8 @@
 
 `Agile Smells` est une initiative de [Robin Béraud-Sudreau](https://coach-agile.com/) qui propose l'intégralité de l'atelier en [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
 Un grand merci à lui !  
-N'hésitez pas à aller voir la page originelle du projet sur [coach-agile.com](https://coach-agile.com/serious-game/agile-smells/).  
+N'hésitez pas à aller voir la [page originelle](https://coach-agile.com/2019/06/agile-bashing-serious-game-agile-smells/) du projet sur [coach-agile.com](https://coach-agile.com/serious-game/agile-smells/).  
 Ce _serious game_ fait partie du label [#OpenSeriousGame](https://openseriousgames.org/).
-
-https://coach-agile.com/2019/06/agile-bashing-serious-game-agile-smells/
 
 ---
 ## Un atelier avec des cartes
