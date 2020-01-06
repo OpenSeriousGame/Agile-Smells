@@ -1,3 +1,6 @@
+---
+---
+
 # Agile Smells
 
 >Extrêmement fun, à la limite de l’impertinence, vous allez rencontrer les plus mauvaises pratiques qui soient !
