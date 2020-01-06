@@ -33,7 +33,7 @@ Toutes les sources sont diponibles directement sous [source](source/AGILE-SMELLS
 
 ## Comment contribuer ?
 
-Vous pouvez cloner ce dépôt et proposer des améliorations ou tout s ^ù^=implement proposer de nouvelles idées de cartes [ici](https://github.com/Zenigata/Agile-Smells/issues).
+Vous pouvez cloner ce dépôt et proposer des améliorations ou tout simplement proposer de nouvelles idées de cartes [ici](https://github.com/Zenigata/Agile-Smells/issues).
 
 ---
 ## Format proposé
