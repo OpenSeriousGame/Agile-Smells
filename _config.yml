@@ -1,2 +1,5 @@
 theme: jekyll-theme-leap-day
 show_downloads: "true"
+github:
+  kit_url: /kit/AGILE-SMELLS-SERIOUS-GAME-KIT-V2.pdf
+  source_url: /source
