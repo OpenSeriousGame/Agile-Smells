@@ -4,6 +4,8 @@ permalink: index.html
 
 # Agile Smells
 
+https://zenigata.github.io/Agile-Smells/
+
 >Extrêmement fun, à la limite de l’impertinence, vous allez rencontrer les plus mauvaises pratiques qui soient !
 
 `Agile Smells` est une initiative de [Robin Béraud-Sudreau](https://coach-agile.com/) qui propose l'intégralité de l'atelier en [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
