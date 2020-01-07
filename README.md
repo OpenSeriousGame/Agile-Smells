@@ -57,6 +57,8 @@ Ensuite, dessinez deux cases sur une table, par exemple avec du ruban adhésif :
  * première case : _Avons-nous déjà rencontré cette situation ?_
  * deuxième case : _Ou pas._
 
+Tout est prêt !
+
  ### Le tour
 
 À chaque tour le facilitateur commence et lit à voix haute une carte _sans donner_ le score de _bashingomètre_ correspondant à la carte.
