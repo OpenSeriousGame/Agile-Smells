@@ -8,6 +8,8 @@ permalink: index.html
 
 >Extrêmement fun, à la limite de l’impertinence, vous allez rencontrer les plus mauvaises pratiques qui soient !
 
+![Paquet de cartes rangé](img/agile-smells-1.jpg)
+
 `Agile Smells` est une initiative de [Robin Béraud-Sudreau](https://coach-agile.com/) qui propose l'intégralité de l'atelier en [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
 Un grand merci à lui !  
 N'hésitez pas à aller voir la [page originelle](https://coach-agile.com/2019/06/agile-bashing-serious-game-agile-smells/) du projet sur [coach-agile.com](https://coach-agile.com/serious-game/agile-smells/).  
@@ -15,6 +17,8 @@ Ce _serious game_ fait partie du label [#OpenSeriousGame](https://openseriousgam
 
 ---
 ## Un atelier avec des cartes
+
+![Vue des cartes par la droite](img/agile-smells-2.jpg)
 
 Cet atelier permet de combattre l’_Agile Bashing_ de manière simple et ludique.  
 En effet, ce jeu aide à prendre conscience que souvent ce n’est pas l’agilité qui ne fonctionne pas mais la manière dont on l’applique.
@@ -43,6 +47,8 @@ Vous pouvez cloner ce dépôt et proposer des améliorations ou tout simplement 
 
 ---
 ## Format proposé
+
+![Vue des cartes par la gauche](img/agile-smells-3.jpg)
 
 ### Pré-requis
 
