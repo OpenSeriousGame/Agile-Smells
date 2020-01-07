@@ -4,7 +4,7 @@ permalink: index.html
 
 # Agile Smells
 
-https://zenigata.github.io/Agile-Smells/
+[https://zenigata.github.io/Agile-Smells/](https://zenigata.github.io/Agile-Smells/)
 
 >Extrêmement fun, à la limite de l’impertinence, vous allez rencontrer les plus mauvaises pratiques qui soient !
 
@@ -57,9 +57,7 @@ Ensuite, dessinez deux cases sur une table, par exemple avec du ruban adhésif :
  * première case : _Avons-nous déjà rencontré cette situation ?_
  * deuxième case : _Ou pas._
 
-Tout est prêt !
-
- ### Le tour
+### Le tour
 
 À chaque tour le facilitateur commence et lit à voix haute une carte _sans donner_ le score de _bashingomètre_ correspondant à la carte.
 
