@@ -39,7 +39,7 @@ Vous pouvez aussi vous procurer une [version deluxe](https://coach-agile.com/pro
 
 ### Les sources
 
-Toutes les sources sont diponibles directement sous [source](source/) dans ce dépôt.
+Toutes les sources sont diponibles directement sous [source](https://github.com/Zenigata/Agile-Smells/tree/master/source) dans ce dépôt.
 
 ## Comment contribuer ?
 
