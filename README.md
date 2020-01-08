@@ -4,7 +4,7 @@ permalink: index.html
 
 # Agile Smells
 
-[https://zenigata.github.io/Agile-Smells/](https://zenigata.github.io/Agile-Smells/)
+[https://openseriousgame.github.io/Agile-Smells/](https://openseriousgame.github.io/Agile-Smells/)
 
 >Extrêmement fun, à la limite de l’impertinence, vous allez rencontrer les plus mauvaises pratiques qui soient !
 
@@ -39,11 +39,11 @@ Vous pouvez aussi vous procurer une [version deluxe](https://coach-agile.com/pro
 
 ### Les sources
 
-Toutes les sources sont diponibles directement sous [source](https://github.com/Zenigata/Agile-Smells/tree/master/source) dans ce dépôt.
+Toutes les sources sont diponibles directement sous [source](https://github.com/OpenSeriousGame/Agile-Smells/tree/master/source) dans ce dépôt.
 
 ## Comment contribuer ?
 
-Vous pouvez cloner ce dépôt et proposer des améliorations ou tout simplement proposer de nouvelles idées de cartes [ici](https://github.com/Zenigata/Agile-Smells/issues).
+Vous pouvez cloner ce dépôt et proposer des améliorations ou tout simplement proposer de nouvelles idées de cartes [ici](https://github.com/OpenSeriousGame/Agile-Smells/issues).
 
 ---
 ## Format proposé
