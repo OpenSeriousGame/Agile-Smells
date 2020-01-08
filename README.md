@@ -1,6 +1,5 @@
 ---
 permalink: index.html
-title: 
 ---
 
 # Agile Smells
@@ -80,6 +79,10 @@ Dès que le score du _bashingomètre_ dèpasse 100, le jeu s’arrête et l’é
 **Tant que le score du _bashingomètre_ est supérieur à 100, ce n’est pas l’agilté qui ne fonctionne pas mais la manière dont vous l’appliquez !**
 
 ---
+## Contributeurs
+
+Merci à Robin Béraud-Sudreau, Sedera Randria, Anne-Lise Gallon, Sylvie Moumen, Guillaume Dutey-Harispe, Benoit Gobolyak, Nathalie Mota, Frédéric Faure, Solène Lassiaille, Johan Bonneau.
+
 ## Licence
 
 `Agile Smells` est proposé en [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) : Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International.
