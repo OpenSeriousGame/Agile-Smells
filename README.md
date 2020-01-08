@@ -1,5 +1,6 @@
 ---
 permalink: index.html
+title: 
 ---
 
 # Agile Smells
@@ -67,15 +68,16 @@ Ensuite, dessinez deux cases sur une table, par exemple avec du ruban adhésif :
 
 À chaque tour le facilitateur commence et lit à voix haute une carte _sans donner_ le score de _bashingomètre_ correspondant à la carte.
 
-L’équipe discute brièvement : A-t-elle déjà été confrontée à cette situation… ou pas.
+L’équipe discute brièvement :
+>A-t-elle déjà été confrontée à cette situation ?
 
 Si oui, elle dépose la carte dans la case associée.
 
-Une fois la carte discutée et déposée dans la bonne case, le jeu continu avec le participant assis à gauche du joueur et un nouveau tour commence.
+Une fois la carte discutée et déposée dans la bonne case, le jeu continue avec le participant assis à gauche du joueur et un nouveau tour commence.
 
-Dès que le score du BASHINGOMÈTRE dèpasse 100, le jeu s’arrête et l’équipe décide d’action concrètes à enclencher.
+Dès que le score du _bashingomètre_ dèpasse 100, le jeu s’arrête et l’équipe décide d’actions concrètes à enclencher.
 
-Tant que le score du Bashingomètre est supérieur à 100, ce n’est pas l’agilté qui ne fonctionne pas mais la manière dont vous l’appliquez !
+**Tant que le score du _bashingomètre_ est supérieur à 100, ce n’est pas l’agilté qui ne fonctionne pas mais la manière dont vous l’appliquez !**
 
 ---
 ## Licence
